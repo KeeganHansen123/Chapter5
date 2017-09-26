@@ -10,7 +10,7 @@ public class EvenOdd {
 		Scanner input = new Scanner(System.in);
 		int num;
 		
-		System.out.println("Plaese enter a number: ");
+		System.out.println("Please enter a number: ");
 		num = input.nextInt();
 		
 		if(num % 2 == 0)
